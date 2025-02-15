@@ -38,7 +38,8 @@ Proposed Solution:
  - API-driven communication with local emergency services and law enforcement.
  - Real-time alerts and automated notifications.
 
-![image](https://github.com/user-attachments/assets/27687f0b-5b23-4c5b-88e8-8cb67a69c47b)
+![image](https://github.com/user-attachments/assets/0d017f81-2f02-4229-94cc-a8c0e707851a)
+
 
 
 ## Accident Detection and Segmentation
@@ -86,7 +87,8 @@ Network Infrastructure:
  - Edge Computing: Real-time processing at CCTV sites to minimize latency.
  - Cloud Storage: Secure archival of historical data for predictive analytics.
 
-![image](https://github.com/user-attachments/assets/0c7130e1-9e09-4316-b628-f5533a62c5f9)
+![image](https://github.com/user-attachments/assets/c2dd64c7-c850-4612-bb23-f07009224532)
+
 
 ## Conclusion
 
