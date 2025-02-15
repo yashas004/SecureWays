@@ -1,7 +1,7 @@
 # SecureWays
 ## Smart Traffic Surveillance and Detection of Suspicious Activities using YOLO
 
-https://paradox404team.wordpress.com/
+Our Detailed Insight : https://paradox404team.wordpress.com/
 
 ## Background
 
