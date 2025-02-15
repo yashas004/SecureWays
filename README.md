@@ -1,6 +1,8 @@
 # SecureWays
 ## Smart Traffic Surveillance and Detection of Suspicious Activities using YOLO
 
+https://paradox404team.wordpress.com/
+
 ## Background
 
 - Urbanization Trends: Growing vehicular traffic and increasing road complexity require advanced solutions.
