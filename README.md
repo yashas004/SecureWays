@@ -18,9 +18,7 @@ Challenges:
 2. Enhancing public safety, particularly for women, using proactive surveillance and rapid response mechanisms.
 
 Proposed Solution:
-
 1. AI-powered traffic management system using real-time data from CCTVs and IoT sensors.
-
 2. Incorporates AI algorithms for:
  - Traffic flow optimization.
  - Seamless integration with emergency services like Women Helpline (1090).
